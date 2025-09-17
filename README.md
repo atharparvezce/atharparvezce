@@ -4,7 +4,7 @@
 
 - 📍 Dhahran, KSA  
 - 📧 [atharparvezce@gmail.com](mailto:atharparvezce@gmail.com)  
-- 🔗 [LinkedIn](#) | [GitHub](#)  
+- 🔗 [LinkedIn](#) | [GitHub](#)  | [Portfolio](https://atharparvezce.github.io)  
 
 ---
 
