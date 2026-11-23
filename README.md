@@ -23,19 +23,28 @@
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
 
-- **Research Assistant** — KFUPM *(Jan 2025 – Present)*  
-- **Machine Learning Intern** — SkillCraft Technology *(Sep 2025)*  
-- **Teaching Assistant** — KFUPM *(Jan 2024 – Jan 2025)*  
-- **AI/ML Engineer** — Tata Consultancy Services *(Apr 2021 – Jan 2024)*  
+- **Data Governance & Data Scientist** — King Fahd Causeway Authority (KFCA) *(Jun 2026 – Present)*
+  - Designed and deployed an enterprise RAG-based AI assistant on **Microsoft Azure (Azure AI Foundry)** for 200+ employees, with grounded answers over internal knowledge sources
+  - Built evaluation and validation controls with **RAGAS** (85% faithfulness) to reduce hallucinations and monitor retrieval quality
+  - Implemented data governance with **Informatica CDGC**: 150+ data assets cataloged, end-to-end lineage, and data quality scores raised from 67% to 88%
+
+- **Data Scientist** — Tata Consultancy Services *(Apr 2021 – Jan 2024)*
+  - Built fraud/anomaly detection models (+23% precision) and churn prediction models (XGBoost, LSTM, 92% F1)
+  - Fine-tuned LLMs with **LoRA/QLoRA** for financial document extraction (90% F1)
+  - Built end-to-end ML pipelines on **AWS and GCP** for 5 production models
 
 ---
 
-## 📚 Publications  
+## 📚 Publications
 
-- *Generalizable Diabetes Risk Stratification via Hybrid ML Models* (Submitted, Journal of Diabetes and Its Complications, Q1)  
-- *Usability Requirements Catalog for Modeling Dynamic User Interactions in Mobile Applications*  
+- **MUIAnno: An Expert-Annotated Dataset and Evaluation Benchmark for Mobile UI Understanding** — [arXiv:2605.17656](https://arxiv.org/abs/2605.17656)
+- **Context-Aware Workflow Decomposition for Automated Mobile UI Annotation Using Multimodal Large Language Models** — [arXiv:2606.02208](https://arxiv.org/abs/2606.02208)
+
+## 🤗 Datasets
+
+- **iOS-1K Mobile UI Dataset** — [Hugging Face](https://huggingface.co/datasets/atharparvezce/iOS-1K-Mobile-UI-Dataset) · 11,000+ downloads
 
 ---
 
