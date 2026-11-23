@@ -1,6 +1,6 @@
 # Hi, I'm Athar Parvez  
 
-**AI/ML Engineer** with hands-on experience deploying ML models, LLM solutions, and generative AI systems into production. I specialize in **enterprise RAG assistants, AI agents & orchestration, LLM evaluation, fine-tuning (LoRA/QLoRA)**, and **end-to-end MLOps** on **Microsoft Azure (Azure AI Foundry)** and Google Cloud Platform with background in **NLP and Computer Vision**.
+**AI/ML Engineer** with hands-on experience deploying ML models, LLM solutions, and generative AI systems into production. I specialize in **enterprise RAG assistants, AI agents & orchestration, LLM evaluation, fine-tuning (LoRA/QLoRA)**, and **end-to-end MLOps** on **Microsoft Azure (Azure AI Foundry)** and **Google Cloud Platform** with background in **NLP and Computer Vision**.
 
 - 📍 Dhahran, KSA  
 - 📧 [atharparvezce@gmail.com](mailto:atharparvezce@gmail.com)  
