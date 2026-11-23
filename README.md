@@ -61,8 +61,8 @@
 
 ## 🎓 Education  
 
-- **MSc Computer Science** — KFUPM *(Jan 2024 – Present)*  
-- **BSc Computer Science** — Maulana Azad National Urdu University *(2016 – 2020)*  
+- **MSc Computer Science** — King Fahd University of Petroleum and Minerals *(Jan 2024 – May 2026)*  
+- **BSc Computer Science** — Maulana Azad National Urdu University *(Aug 2016 – May 2020)*  
 
 ---
 
@@ -74,6 +74,4 @@
 - AI Agents in LangGraph (DeepLearning.AI, 2025)  
 - Python Basics (University of Michigan, 2024)  
 
----
-
-⚡ *I’m passionate about building intelligent, scalable AI systems — from research prototypes to production-ready solutions.*  
+--- 
