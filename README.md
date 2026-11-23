@@ -14,7 +14,7 @@
 - **Generative AI & Conversational AI:** LLMs, RAG, Grounding & Hallucination Mitigation, LangChain, LangGraph, Hugging Face, OpenAI API, Gemini API, Vector Databases, LLM fine-tuning (LoRA, QLoRA), Prompt Engineering
 - **AI Agents & Orchestration:** AI Agent Workflows, Multi-Step Orchestration (LangGraph, LangChain), Workflow Decomposition, Structured Outputs, n8n, Zapier, LangFlow
 - **Retrieval & Model Evaluation:** RAGAS (faithfulness, answer relevancy, context precision/recall), Benchmarking, Error Analysis
-- **Azure AI & Cloud:** Microsoft Azure (Azure AI Foundry, Azure AI Services),Azure OpenAI, Azure AI Search, ADLS, Azure Databricks, Azure Monitor / Application Insights, Entra ID, Evidence Binding, Responsible AI, Security & Access Control, Logging & Monitoring, Tool/Function Calling, Multi-Agent Systems, GCP (Vertex AI, BigQuery), AWS (SageMaker, EC2, S3, Lambda)
+- **Azure AI & Cloud:** Microsoft Azure (Azure AI Foundry, Azure AI Services),Azure OpenAI, Azure AI Search, ADLS, Azure Databricks, Azure Monitor / Application Insights, Entra ID, Evidence Binding, Responsible AI, Security & Access Control, Logging & Monitoring, Tool/Function Calling, Multi-Agent Systems, GCP (Vertex AI, BigQuery)
 - **APIs, Data & Databases:** REST APIs, FastAPI, SQL, MongoDB, MySQL, Oracle, Structured Data & Natural Language Querying
 - **MLOps & Deployment:** Git, Docker, MLflow, CI/CD, Streamlit, Flask, ONNX, TensorFlow Lite
 - **Data Governance:** Informatica CDGC, Data Cataloging, Data Lineage, Data Quality, Metadata Management
