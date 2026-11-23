@@ -2,7 +2,7 @@
 
 **AI/ML Engineer** with hands-on experience deploying ML models, LLM solutions, and generative AI systems into production. I specialize in **enterprise RAG assistants, AI agents & orchestration, LLM evaluation**, and **end-to-end MLOps** on **Microsoft Azure (Azure AI Foundry)** and **Google Cloud Platform** with background in **NLP and Computer Vision**.
 
-- 📍 Dhahran, KSA  
+- 📍 Al Khobar, KSA  
 - 📧 [atharparvezce@gmail.com](mailto:atharparvezce@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/atharparvezce) | [GitHub](https://github.com/atharparvezce)  | [Portfolio](https://atharparvezce.github.io)  
 
